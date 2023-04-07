@@ -1,0 +1,4 @@
+{
+    "name": "Etude React App",
+    "image": "mcr.microsoft.com/devcontainers/typescript-node:0-18"
+}
